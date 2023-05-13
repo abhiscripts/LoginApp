@@ -1,6 +1,6 @@
 import { BasicPage } from "../Layouts/BasePage";
 import Home from "@mui/icons-material/Home";
-import R from "../../../public/R.png"
+import R from "../../R.png";
 
 export const Homepage = () => {
   //return <BasicPage title="Home Page" icon={<Home />} />;
